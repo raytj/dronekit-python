@@ -10,3 +10,5 @@ build
 *.pyc
 env
 vs/.vs/dronekit-python/v14/*.suo
+dronekit3/
+.vscode/
